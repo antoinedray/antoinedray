@@ -1,6 +1,5 @@
 ### About me
 
-* Quantitative Research Intern at BNP Paribas CIB
 * Co-founder of [BlackBox Asset Management](https://github.com/BlackBoxAM)
 * Student in Computer Engineering & Mathematics with a major in Data Science & Machine Learning.
 * Student in Finance with a major in Financial Markets.
