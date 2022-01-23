@@ -1,6 +1,6 @@
 ### About me
 
-* Co-founder of [Ocean Alpha](https://github.com/OceanAlpha)
+* Co-founder of [Ocean Alpha](https://ocean-alpha.com)
 * Student in Computer Engineering & Mathematics with a major in Data Science & Machine Learning.
 * Student in Finance with a major in Financial Markets.
 * High interest in Machine Learning, Data Science, Statistics, Algorithmic / Systematic Trading, Cryptocurrencies.
